@@ -1,4 +1,6 @@
-libsm6
-libxrender1
-libfontconfig1
-libice6
+cmake
+libboost-all-dev
+libopenblas-dev
+liblapack-dev
+libx11-dev
+libgtk-3-dev
